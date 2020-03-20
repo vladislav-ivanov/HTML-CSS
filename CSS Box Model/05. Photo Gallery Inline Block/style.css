@@ -1,0 +1,21 @@
+main{
+    background-color: #EEEEEE;
+    padding: 1em 3em;
+    width: 70%;
+    margin: 1em auto;
+}
+li{
+   display: inline-block;
+   border-width: 0.4 rem;
+   border-color: black;
+   border-style: solid;
+   vertical-align: middle;
+   padding: 10px;
+   background-color: white;
+   margin: 0.6em;
+   width: 26%;
+
+}
+img{
+    width: 100%;
+}
